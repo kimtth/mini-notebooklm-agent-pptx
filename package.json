@@ -24,11 +24,11 @@
     "@github/copilot-sdk": "^0.1.32",
     "@github/copilot-win32-x64": "1.0.3",
     "@iconify/react": "^6.0.2",
-    "adm-zip": "^0.5.16",
+    "adm-zip": "^0.6.1",
     "archiver": "^7.0.1",
     "balanced-match": "^4.0.4",
     "cheerio": "^1.2.0",
-    "csv-parse": "^6.1.0",
+    "csv-parse": "^7.0.2",
     "jszip": "^3.10.1",
     "lucide-react": "^0.577.0",
     "mammoth": "^1.11.0",
@@ -36,7 +36,7 @@
     "react-dom": "19.2.4",
     "react-markdown": "^10.1.0",
     "remark-gfm": "^4.0.1",
-    "undici": "^7.24.0",
+    "undici": "^7.29.1",
     "zustand": "^5.0.11"
   },
   "pnpm": {
@@ -54,11 +54,11 @@
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.4",
-    "electron": "^41.1.0",
+    "electron": "^41.10.6",
     "electron-builder": "^26.0.12",
     "electron-vite": "^5.0.0",
     "tailwindcss": "^4.2.1",
     "typescript": "^5.9.3",
-    "vite": "^7.3.1"
+    "vite": "^8.3.2"
   }
 }
